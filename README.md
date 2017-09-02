@@ -5,5 +5,5 @@
 ### 爬取网站：
 解放日报、人民日报
 ### 效果展示：
-![image](https://github.com/faya0505/spyder/people_paper/people_paper/1.png)
-![image](https://github.com/fay0505/spyder/jfdaily/jfdaily/1.png)
+![人民日报](https://github.com/fay0505/spyder/blob/master/people_paper/people_paper/1.png)
+![解放日报](https://github.com/fay0505/spyder/blob/master/jfdaily/jfdaily/1.png)
